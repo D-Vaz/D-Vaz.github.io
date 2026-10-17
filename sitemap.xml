@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://d-vaz.github.io/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://d-vaz.github.io/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://d-vaz.github.io/pt/"/>
+    <image:image><image:loc>https://d-vaz.github.io/images/daniel-vaz.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://d-vaz.github.io/pt/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://d-vaz.github.io/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://d-vaz.github.io/pt/"/>
+    <image:image><image:loc>https://d-vaz.github.io/images/daniel-vaz.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://d-vaz.github.io/publications.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://d-vaz.github.io/publications.html"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://d-vaz.github.io/pt/publications.html"/>
+    <image:image><image:loc>https://d-vaz.github.io/images/daniel-vaz-aurora.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://d-vaz.github.io/pt/publications.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://d-vaz.github.io/publications.html"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://d-vaz.github.io/pt/publications.html"/>
+    <image:image><image:loc>https://d-vaz.github.io/images/daniel-vaz-aurora.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://d-vaz.github.io/contact.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://d-vaz.github.io/contact.html"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://d-vaz.github.io/pt/contact.html"/>
+    <image:image><image:loc>https://d-vaz.github.io/images/daniel-vaz-bergen.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://d-vaz.github.io/pt/contact.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://d-vaz.github.io/contact.html"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://d-vaz.github.io/pt/contact.html"/>
+    <image:image><image:loc>https://d-vaz.github.io/images/daniel-vaz-bergen.jpg</image:loc></image:image>
   </url>
 </urlset>
